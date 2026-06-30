@@ -14,4 +14,4 @@ Inside project directory, run
 ```
 
 # License
-MIT License, see <LICENSE>.
+MIT License, see <https://github.com/TrevCan/snake/blob/master/LICENSE>
